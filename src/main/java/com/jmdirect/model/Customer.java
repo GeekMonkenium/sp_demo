@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Created by user on 08/03/2017.
+ * Created by Jatin Mehta on 08/03/2017.
  */
 @Entity
 public class Customer implements Serializable {

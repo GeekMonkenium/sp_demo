@@ -67,7 +67,7 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         <div class="col-lg-4">
-            <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=Instrument" />"
+            <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=men" />"
                role="button">
                 <img class="img-circle" src="<c:url value="/resources/images/MenBrowse.PNG" />" alt="Instrument
                 Image" width="140" height="140"></a>
@@ -81,7 +81,7 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=Record" />"
+                <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=women" />"
                    role="button">
                     <img class="img-circle" src="<c:url value="/resources/images/WomenBrowse.PNG" />" alt="Instrument
                 Image" width="140" height="140"></a>
@@ -93,7 +93,7 @@
 
             <div class="row">
                 <div class="col-lg-4">
-                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=Accessory" />"
+                    <a class="btn btn-default" href="<c:url value="/product/productList?searchCondition=sportswear" />"
                        role="button">
                         <img class="img-circle" src="<c:url value="/resources/images/MenWomenBrowse.PNG" />" alt="Instrument
                 Image" width="140" height="140"></a>
